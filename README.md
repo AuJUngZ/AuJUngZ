@@ -76,8 +76,11 @@
 <br/>  
 
 
-## Github Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AuJUngZ&show_icons=true&theme=radical) 
+## Github Stats
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AuJUngZ&show_icons=true&theme=radical) 
+</div>
+
 
 <br/>  
 
