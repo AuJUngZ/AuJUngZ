@@ -1,3 +1,9 @@
+## My Website | Learn More About Me  
+
+Explore my portfolio, projects, and professional background at:  [aujung-web](https://aujung-web.vercel.app)  
+
+Stay updated with my latest work and insights.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/auuujung) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aujung) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aujungzz) 
