@@ -1,6 +1,6 @@
 ## My Website | Learn More About Me  
 
-Explore my portfolio, projects, and professional background at:  [aujung-web](https://aujung-web.vercel.app)  
+Explore my portfolio, projects, and professional background at:  [aujung-dev](https://aujung.dev)  
 
 Stay updated with my latest work and insights.
 
